@@ -19,7 +19,7 @@ EZ editatu eskuz.
 This is a dummy description of this app features
 
 
-**Paketatutako bertsioa:** 4.1.4~ynh1
+**Paketatutako bertsioa:** 4.1.10~ynh1
 
 **Demoa:** <https://demo.example.com>
 

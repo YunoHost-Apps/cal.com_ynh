@@ -19,7 +19,7 @@ No se debe editar a mano.
 This is a dummy description of this app features
 
 
-**Versión actual:** 4.1.4~ynh1
+**Versión actual:** 4.1.10~ynh1
 
 **Demo:** <https://demo.example.com>
 
