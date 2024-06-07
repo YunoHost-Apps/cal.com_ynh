@@ -16,8 +16,7 @@ NON debe editarse manualmente.
 
 ## Vista xeral
 
-This is a dummy description of this app features
-
+Cal.com is an event planner for everyone.
 
 **Versión proporcionada:** 4.1.10~ynh1
 

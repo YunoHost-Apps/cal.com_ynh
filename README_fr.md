@@ -16,8 +16,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
-
+Cal.com est un planificateur d'événements pour tous.
 
 **Version incluse :** 4.1.10~ynh1
 
