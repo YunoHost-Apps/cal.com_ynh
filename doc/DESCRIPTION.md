@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Cal.com is an event planner for everyone.
