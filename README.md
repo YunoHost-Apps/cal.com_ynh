@@ -19,7 +19,7 @@ It shall NOT be edited by hand.
 This is a dummy description of this app features
 
 
-**Shipped version:** 4.1.4~ynh1
+**Shipped version:** 4.1.10~ynh1
 
 **Demo:** <https://demo.example.com>
 

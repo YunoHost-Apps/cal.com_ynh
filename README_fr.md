@@ -19,7 +19,7 @@ Il NE doit PAS être modifié à la main.
 Ceci est une fausse description des fonctionalités de l'app
 
 
-**Version incluse :** 4.1.4~ynh1
+**Version incluse :** 4.1.10~ynh1
 
 **Démo :** <https://demo.example.com>
 
