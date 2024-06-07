@@ -4,15 +4,15 @@ packaging_format = 2
 
 id = "calcom"
 name = "cal.com"
-description.en = "Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)"
-description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+description.en = "Scheduling app for everyone"
+description.fr = "Scheduling app for everyone"
 
-version = "4.1.4~ynh1"
+version = "4.1.10~ynh1"
 
 maintainers = ["eric_G"]
 
 [upstream]
-license = "free"
+license = "AGPL-3.0"
 website = "https://cal.com/"
 demo = "https://demo.example.com"
 code = "https://github.com/calcom"
@@ -43,8 +43,8 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/calcom/cal.com/archive/refs/tags/v4.1.4.tar.gz"
-    sha256 = "76ec58de1784c3c3cb7fd7bea1aee17c4bbac66a5b2f683279741ca759471f73"
+    url = "https://github.com/calcom/cal.com/archive/refs/tags/v4.1.10.tar.gz"
+    sha256 = "498dd15198c5724f24d0909dc83f8097cefc2fdfa19b58b1695dcd9fee1076c1"
 
     autoupdate.strategy = "latest_github_tag"
 
