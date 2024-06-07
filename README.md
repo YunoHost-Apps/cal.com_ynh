@@ -21,8 +21,6 @@ This is a dummy description of this app features
 
 **Shipped version:** 4.1.10~ynh1
 
-**Demo:** <https://demo.example.com>
-
 ## Screenshots
 
 ![Screenshot of cal.com](./doc/screenshots/example.jpg)

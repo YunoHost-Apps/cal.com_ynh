@@ -21,8 +21,6 @@ This is a dummy description of this app features
 
 **Versión proporcionada:** 4.1.10~ynh1
 
-**Demo:** <https://demo.example.com>
-
 ## Capturas de pantalla
 
 ![Captura de pantalla de cal.com](./doc/screenshots/example.jpg)

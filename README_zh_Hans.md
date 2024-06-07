@@ -21,8 +21,6 @@ This is a dummy description of this app features
 
 **分发版本：** 4.1.10~ynh1
 
-**演示：** <https://demo.example.com>
-
 ## 截图
 
 ![cal.com 的截图](./doc/screenshots/example.jpg)

@@ -21,8 +21,6 @@ This is a dummy description of this app features
 
 **Paketatutako bertsioa:** 4.1.10~ynh1
 
-**Demoa:** <https://demo.example.com>
-
 ## Pantaila-argazkiak
 
 ![cal.com(r)en pantaila-argazkia](./doc/screenshots/example.jpg)
