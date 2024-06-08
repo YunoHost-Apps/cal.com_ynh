@@ -1,1 +1,1 @@
-Cal.com is an event planner for everyone.
+Cal.com is a self-hosted open-source appointment scheduling application. It is an alternative to Calendly and allows you to efficiently schedule meetings, appointments, and link external services such as Google Calendar, Zoom through a simple to use web dashboard.
