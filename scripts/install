@@ -55,7 +55,7 @@ ynh_script_progression --message="Installing $app..." --weight=1
 
 pushd $install_dir/apps/web/
  	ynh_use_nodejs
-	env $ynh_node_load_PATH yarn install
+	#env $ynh_node_load_PATH yarn install
 	env $ynh_node_load_PATH yarn build	
 popd
 
