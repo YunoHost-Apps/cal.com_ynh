@@ -44,7 +44,7 @@ ynh_add_nginx_config
 
 ynh_add_systemd_config
 
-yunohost service add "$app" --description="A short description of the app" --log="/var/log/$app/$app.log"
+yunohost service add "$app" --description="Appointment scheduling app" --log="/var/log/$app/$app.log"
 
 #=================================================
 # INSTALL CAL.COM WITH NPM
