@@ -5,7 +5,7 @@ packaging_format = 2
 id = "calcom"
 name = "cal.com"
 description.en = "Appointment scheduling application"
-description.fr = "Scheduling app for everyone"
+description.fr = "Application de planification de rendez-vous"
 
 version = "4.1.10~ynh1"
 

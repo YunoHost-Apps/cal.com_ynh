@@ -44,7 +44,7 @@ ynh_add_nginx_config
 
 ynh_add_systemd_config
 
-yunohost service add "$app" --description="A short description of the app" --log="/var/log/$app/$app.log"
+yunohost service add "$app" --description="Appointment scheduling app" --log="/var/log/$app/$app.log"
 
 #=================================================
 # INSTALL CAL.COM WITH NPM
@@ -53,9 +53,8 @@ ynh_script_progression --message="Installing $app..." --weight=1
 
 pushd $install_dir
  	ynh_use_nodejs
-	ynh_exec_warn_less ynh_exec_as $app env $ynh_node_load_PATH yarn install --production
+	ynh_exec_warn_less ynh_exec_as $app env $ynh_node_load_PATH yarn
 	ynh_exec_warn_less ynh_exec_as $app env $ynh_node_load_PATH yarn build
-	#ynh_exec_warn_less ynh_exec_as $app env $ynh_node_load_PATH yarn workspace @calcom/prisma db-deploy
 popd
 
 #=================================================
