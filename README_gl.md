@@ -16,12 +16,9 @@ NON debe editarse manualmente.
 
 ## Vista xeral
 
-This is a dummy description of this app features
+Cal.com is a self-hosted open-source appointment scheduling application. It is an alternative to Calendly and allows you to efficiently schedule meetings, appointments, and link external services such as Google Calendar, Zoom through a simple to use web dashboard.
 
-
-**Versión proporcionada:** 4.1.4~ynh1
-
-**Demo:** <https://demo.example.com>
+**Versión proporcionada:** 4.1.10~ynh1
 
 ## Capturas de pantalla
 

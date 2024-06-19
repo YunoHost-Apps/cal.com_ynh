@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Cal.com est un planificateur d'événements pour tous.
