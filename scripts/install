@@ -55,8 +55,8 @@ ynh_script_progression --message="Installing $app..." --weight=1
 
 pushd $install_dir/apps/web/
  	ynh_use_nodejs
-	env $ynh_node_load_PATH NODE_OPTIONS="--max-old-space-size=8192" yarn
-	env $ynh_node_load_PATH NODE_OPTIONS="--max-old-space-size=8192" yarn build	
+	env $ynh_node_load_PATH NODE_OPTIONS="--max-old-space-size=4096" yarn
+	env $ynh_node_load_PATH NODE_OPTIONS="--max-old-space-size=4096" yarn build	
 popd
 
 #=================================================
